@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C_#\\Project\\Week_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9F91D0-41F3-427D-BB90-82D4063A784E}|Week_2\\Week_2.csproj|d:\\c_#\\project\\week_2\\week_2\\week_2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9B9F91D0-41F3-427D-BB90-82D4063A784E}|Week_2\\Week_2.csproj|solutionrelative:week_2\\week_2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9F91D0-41F3-427D-BB90-82D4063A784E}|Week_2\\Week_2.csproj|d:\\c_#\\project\\week_2\\week_2\\exercise_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9F91D0-41F3-427D-BB90-82D4063A784E}|Week_2\\Week_2.csproj|solutionrelative:week_2\\exercise_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9F91D0-41F3-427D-BB90-82D4063A784E}|Week_2\\Week_2.csproj|d:\\c_#\\project\\week_2\\week_2\\exercise_4\\fraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9F91D0-41F3-427D-BB90-82D4063A784E}|Week_2\\Week_2.csproj|solutionrelative:week_2\\exercise_4\\fraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C_#\\Project\\Week_2\\Week_2\\Exercise_4\\Program.cs",
+              "RelativeDocumentMoniker": "Week_2\\Exercise_4\\Program.cs",
+              "ToolTip": "D:\\C_#\\Project\\Week_2\\Week_2\\Exercise_4\\Program.cs",
+              "RelativeToolTip": "Week_2\\Exercise_4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T07:12:00.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Fraction.cs",
+              "DocumentMoniker": "D:\\C_#\\Project\\Week_2\\Week_2\\Exercise_4\\Fraction.cs",
+              "RelativeDocumentMoniker": "Week_2\\Exercise_4\\Fraction.cs",
+              "ToolTip": "D:\\C_#\\Project\\Week_2\\Week_2\\Exercise_4\\Fraction.cs",
+              "RelativeToolTip": "Week_2\\Exercise_4\\Fraction.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAUwGcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T07:10:59.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Week_2.csproj",
+              "DocumentMoniker": "D:\\C_#\\Project\\Week_2\\Week_2\\Week_2.csproj",
+              "RelativeDocumentMoniker": "Week_2\\Week_2.csproj",
+              "ToolTip": "D:\\C_#\\Project\\Week_2\\Week_2\\Week_2.csproj",
+              "RelativeToolTip": "Week_2\\Week_2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-05T07:10:53.853Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

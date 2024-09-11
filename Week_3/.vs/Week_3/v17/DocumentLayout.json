@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C_#\\Project\\Week_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{045FCD71-12CF-4F15-BA82-1A8E625F26E8}|Week_3\\Week_3.csproj|d:\\c_#\\project\\week_3\\week_3\\exercise_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045FCD71-12CF-4F15-BA82-1A8E625F26E8}|Week_3\\Week_3.csproj|solutionrelative:week_3\\exercise_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045FCD71-12CF-4F15-BA82-1A8E625F26E8}|Week_3\\Week_3.csproj|d:\\c_#\\project\\week_3\\week_3\\exercise_6\\labstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045FCD71-12CF-4F15-BA82-1A8E625F26E8}|Week_3\\Week_3.csproj|solutionrelative:week_3\\exercise_6\\labstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045FCD71-12CF-4F15-BA82-1A8E625F26E8}|Week_3\\Week_3.csproj|d:\\c_#\\project\\week_3\\week_3\\exercise_6\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045FCD71-12CF-4F15-BA82-1A8E625F26E8}|Week_3\\Week_3.csproj|solutionrelative:week_3\\exercise_6\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045FCD71-12CF-4F15-BA82-1A8E625F26E8}|Week_3\\Week_3.csproj|d:\\c_#\\project\\week_3\\week_3\\exercise_6\\scientist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045FCD71-12CF-4F15-BA82-1A8E625F26E8}|Week_3\\Week_3.csproj|solutionrelative:week_3\\exercise_6\\scientist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045FCD71-12CF-4F15-BA82-1A8E625F26E8}|Week_3\\Week_3.csproj|d:\\c_#\\project\\week_3\\week_3\\exercise_6\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045FCD71-12CF-4F15-BA82-1A8E625F26E8}|Week_3\\Week_3.csproj|solutionrelative:week_3\\exercise_6\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045FCD71-12CF-4F15-BA82-1A8E625F26E8}|Week_3\\Week_3.csproj|d:\\c_#\\project\\week_3\\week_3\\week_3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{045FCD71-12CF-4F15-BA82-1A8E625F26E8}|Week_3\\Week_3.csproj|solutionrelative:week_3\\week_3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045FCD71-12CF-4F15-BA82-1A8E625F26E8}|Week_3\\Week_3.csproj|d:\\c_#\\project\\week_3\\week_3\\exercise_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045FCD71-12CF-4F15-BA82-1A8E625F26E8}|Week_3\\Week_3.csproj|solutionrelative:week_3\\exercise_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C_#\\Project\\Week_3\\Week_3\\Exercise_6\\Program.cs",
+              "RelativeDocumentMoniker": "Week_3\\Exercise_6\\Program.cs",
+              "ToolTip": "D:\\C_#\\Project\\Week_3\\Week_3\\Exercise_6\\Program.cs",
+              "RelativeToolTip": "Week_3\\Exercise_6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T16:46:09.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LabStaff.cs",
+              "DocumentMoniker": "D:\\C_#\\Project\\Week_3\\Week_3\\Exercise_6\\LabStaff.cs",
+              "RelativeDocumentMoniker": "Week_3\\Exercise_6\\LabStaff.cs",
+              "ToolTip": "D:\\C_#\\Project\\Week_3\\Week_3\\Exercise_6\\LabStaff.cs",
+              "RelativeToolTip": "Week_3\\Exercise_6\\LabStaff.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADwvyQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T16:45:53.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "D:\\C_#\\Project\\Week_3\\Week_3\\Exercise_6\\Manager.cs",
+              "RelativeDocumentMoniker": "Week_3\\Exercise_6\\Manager.cs",
+              "ToolTip": "D:\\C_#\\Project\\Week_3\\Week_3\\Exercise_6\\Manager.cs",
+              "RelativeToolTip": "Week_3\\Exercise_6\\Manager.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA2wDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T16:45:40.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Scientist.cs",
+              "DocumentMoniker": "D:\\C_#\\Project\\Week_3\\Week_3\\Exercise_6\\Scientist.cs",
+              "RelativeDocumentMoniker": "Week_3\\Exercise_6\\Scientist.cs",
+              "ToolTip": "D:\\C_#\\Project\\Week_3\\Week_3\\Exercise_6\\Scientist.cs",
+              "RelativeToolTip": "Week_3\\Exercise_6\\Scientist.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAwwDgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T16:45:24.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\C_#\\Project\\Week_3\\Week_3\\Exercise_6\\Employee.cs",
+              "RelativeDocumentMoniker": "Week_3\\Exercise_6\\Employee.cs",
+              "ToolTip": "D:\\C_#\\Project\\Week_3\\Week_3\\Exercise_6\\Employee.cs",
+              "RelativeToolTip": "Week_3\\Exercise_6\\Employee.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwCwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T16:44:04.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Week_3",
+              "DocumentMoniker": "D:\\C_#\\Project\\Week_3\\Week_3\\Week_3.csproj",
+              "RelativeDocumentMoniker": "Week_3\\Week_3.csproj",
+              "ToolTip": "D:\\C_#\\Project\\Week_3\\Week_3\\Week_3.csproj",
+              "RelativeToolTip": "Week_3\\Week_3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-11T16:43:54.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C_#\\Project\\Week_3\\Week_3\\Exercise_5\\Program.cs",
+              "RelativeDocumentMoniker": "Week_3\\Exercise_5\\Program.cs",
+              "ToolTip": "D:\\C_#\\Project\\Week_3\\Week_3\\Exercise_5\\Program.cs",
+              "RelativeToolTip": "Week_3\\Exercise_5\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T16:42:58.806Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

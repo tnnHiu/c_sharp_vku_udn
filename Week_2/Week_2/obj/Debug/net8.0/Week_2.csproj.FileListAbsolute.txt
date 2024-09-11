@@ -1,0 +1,14 @@
+D:\C_#\Project\Week_2\Week_2\obj\Debug\net8.0\Week_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_#\Project\Week_2\Week_2\obj\Debug\net8.0\Week_2.AssemblyInfoInputs.cache
+D:\C_#\Project\Week_2\Week_2\obj\Debug\net8.0\Week_2.AssemblyInfo.cs
+D:\C_#\Project\Week_2\Week_2\obj\Debug\net8.0\Week_2.csproj.CoreCompileInputs.cache
+D:\C_#\Project\Week_2\Week_2\bin\Debug\net8.0\Week_2.exe
+D:\C_#\Project\Week_2\Week_2\bin\Debug\net8.0\Week_2.deps.json
+D:\C_#\Project\Week_2\Week_2\bin\Debug\net8.0\Week_2.runtimeconfig.json
+D:\C_#\Project\Week_2\Week_2\bin\Debug\net8.0\Week_2.dll
+D:\C_#\Project\Week_2\Week_2\bin\Debug\net8.0\Week_2.pdb
+D:\C_#\Project\Week_2\Week_2\obj\Debug\net8.0\Week_2.dll
+D:\C_#\Project\Week_2\Week_2\obj\Debug\net8.0\refint\Week_2.dll
+D:\C_#\Project\Week_2\Week_2\obj\Debug\net8.0\Week_2.pdb
+D:\C_#\Project\Week_2\Week_2\obj\Debug\net8.0\Week_2.genruntimeconfig.cache
+D:\C_#\Project\Week_2\Week_2\obj\Debug\net8.0\ref\Week_2.dll
