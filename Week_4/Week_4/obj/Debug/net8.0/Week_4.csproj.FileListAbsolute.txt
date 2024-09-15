@@ -1,0 +1,15 @@
+D:\C_#\Project\Week_4\Week_4\bin\Debug\net8.0\Week_4.exe
+D:\C_#\Project\Week_4\Week_4\bin\Debug\net8.0\Week_4.deps.json
+D:\C_#\Project\Week_4\Week_4\bin\Debug\net8.0\Week_4.runtimeconfig.json
+D:\C_#\Project\Week_4\Week_4\bin\Debug\net8.0\Week_4.dll
+D:\C_#\Project\Week_4\Week_4\bin\Debug\net8.0\Week_4.pdb
+D:\C_#\Project\Week_4\Week_4\obj\Debug\net8.0\Week_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_#\Project\Week_4\Week_4\obj\Debug\net8.0\Week_4.AssemblyInfoInputs.cache
+D:\C_#\Project\Week_4\Week_4\obj\Debug\net8.0\Week_4.AssemblyInfo.cs
+D:\C_#\Project\Week_4\Week_4\obj\Debug\net8.0\Week_4.csproj.CoreCompileInputs.cache
+D:\C_#\Project\Week_4\Week_4\obj\Debug\net8.0\Week_4.sourcelink.json
+D:\C_#\Project\Week_4\Week_4\obj\Debug\net8.0\Week_4.dll
+D:\C_#\Project\Week_4\Week_4\obj\Debug\net8.0\refint\Week_4.dll
+D:\C_#\Project\Week_4\Week_4\obj\Debug\net8.0\Week_4.pdb
+D:\C_#\Project\Week_4\Week_4\obj\Debug\net8.0\Week_4.genruntimeconfig.cache
+D:\C_#\Project\Week_4\Week_4\obj\Debug\net8.0\ref\Week_4.dll
