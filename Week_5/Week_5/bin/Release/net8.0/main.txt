@@ -1,0 +1,7 @@
+1, Trinh, Hieu, 45000
+2, Nguyen, Trung, 9000
+3, Nguyen, Van, 100000
+4, Le, Tuan, 3000000
+5, Tao, Phong, 1200
+6, Nguyen, Toan, 9000
+7, Nguyen, Trinh, 9000

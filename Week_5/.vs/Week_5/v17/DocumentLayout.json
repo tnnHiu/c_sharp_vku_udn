@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C_#\\Project\\Week_5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28FAC0ED-3699-447C-83CE-92BD1C37512B}|Week_5\\Week_5.csproj|d:\\c_#\\project\\week_5\\week_5\\exercise_3\\program_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28FAC0ED-3699-447C-83CE-92BD1C37512B}|Week_5\\Week_5.csproj|solutionrelative:week_5\\exercise_3\\program_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28FAC0ED-3699-447C-83CE-92BD1C37512B}|Week_5\\Week_5.csproj|d:\\c_#\\project\\week_5\\week_5\\week_5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{28FAC0ED-3699-447C-83CE-92BD1C37512B}|Week_5\\Week_5.csproj|solutionrelative:week_5\\week_5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28FAC0ED-3699-447C-83CE-92BD1C37512B}|Week_5\\Week_5.csproj|d:\\c_#\\project\\week_5\\week_5\\exercise_3\\program_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28FAC0ED-3699-447C-83CE-92BD1C37512B}|Week_5\\Week_5.csproj|solutionrelative:week_5\\exercise_3\\program_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28FAC0ED-3699-447C-83CE-92BD1C37512B}|Week_5\\Week_5.csproj|d:\\c_#\\project\\week_5\\week_5\\exercise_3\\program_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28FAC0ED-3699-447C-83CE-92BD1C37512B}|Week_5\\Week_5.csproj|solutionrelative:week_5\\exercise_3\\program_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program_2.cs",
+              "DocumentMoniker": "D:\\C_#\\Project\\Week_5\\Week_5\\Exercise_3\\Program_2.cs",
+              "RelativeDocumentMoniker": "Week_5\\Exercise_3\\Program_2.cs",
+              "ToolTip": "D:\\C_#\\Project\\Week_5\\Week_5\\Exercise_3\\Program_2.cs",
+              "RelativeToolTip": "Week_5\\Exercise_3\\Program_2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T02:43:36.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Week_5",
+              "DocumentMoniker": "D:\\C_#\\Project\\Week_5\\Week_5\\Week_5.csproj",
+              "RelativeDocumentMoniker": "Week_5\\Week_5.csproj",
+              "ToolTip": "D:\\C_#\\Project\\Week_5\\Week_5\\Week_5.csproj",
+              "RelativeToolTip": "Week_5\\Week_5.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-25T02:40:58.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program_3.cs",
+              "DocumentMoniker": "D:\\C_#\\Project\\Week_5\\Week_5\\Exercise_3\\Program_3.cs",
+              "RelativeDocumentMoniker": "Week_5\\Exercise_3\\Program_3.cs",
+              "ToolTip": "D:\\C_#\\Project\\Week_5\\Week_5\\Exercise_3\\Program_3.cs",
+              "RelativeToolTip": "Week_5\\Exercise_3\\Program_3.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAywKIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T17:44:02.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program_4.cs",
+              "DocumentMoniker": "D:\\C_#\\Project\\Week_5\\Week_5\\Exercise_3\\Program_4.cs",
+              "RelativeDocumentMoniker": "Week_5\\Exercise_3\\Program_4.cs",
+              "ToolTip": "D:\\C_#\\Project\\Week_5\\Week_5\\Exercise_3\\Program_4.cs",
+              "RelativeToolTip": "Week_5\\Exercise_3\\Program_4.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAuwOoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T15:36:00.54Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

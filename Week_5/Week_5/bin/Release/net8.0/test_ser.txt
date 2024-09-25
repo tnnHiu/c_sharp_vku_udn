@@ -1,0 +1,8 @@
+[
+  {
+    "AccountId": 1,
+    "FirstName": "Hieu",
+    "LastName": "Hieu",
+    "Balance": 1000
+  }
+]

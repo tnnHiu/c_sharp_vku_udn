@@ -1,0 +1,20 @@
+[
+  {
+    "AccountId": 1,
+    "FirstName": "Trinh",
+    "LastName": "Hieu",
+    "Balance": 1002
+  },
+  {
+    "AccountId": 2,
+    "FirstName": "Nguyen",
+    "LastName": "Vi",
+    "Balance": 10022
+  },
+  {
+    "AccountId": 3,
+    "FirstName": "An",
+    "LastName": "Binh",
+    "Balance": 3131
+  }
+]

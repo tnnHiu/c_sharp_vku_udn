@@ -1,0 +1,15 @@
+D:\C_#\Project\Week_5\Week_5\bin\Release\net8.0\Week_5.exe
+D:\C_#\Project\Week_5\Week_5\bin\Release\net8.0\Week_5.deps.json
+D:\C_#\Project\Week_5\Week_5\bin\Release\net8.0\Week_5.runtimeconfig.json
+D:\C_#\Project\Week_5\Week_5\bin\Release\net8.0\Week_5.dll
+D:\C_#\Project\Week_5\Week_5\bin\Release\net8.0\Week_5.pdb
+D:\C_#\Project\Week_5\Week_5\obj\Release\net8.0\Week_5.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_#\Project\Week_5\Week_5\obj\Release\net8.0\Week_5.AssemblyInfoInputs.cache
+D:\C_#\Project\Week_5\Week_5\obj\Release\net8.0\Week_5.AssemblyInfo.cs
+D:\C_#\Project\Week_5\Week_5\obj\Release\net8.0\Week_5.csproj.CoreCompileInputs.cache
+D:\C_#\Project\Week_5\Week_5\obj\Release\net8.0\Week_5.sourcelink.json
+D:\C_#\Project\Week_5\Week_5\obj\Release\net8.0\Week_5.dll
+D:\C_#\Project\Week_5\Week_5\obj\Release\net8.0\refint\Week_5.dll
+D:\C_#\Project\Week_5\Week_5\obj\Release\net8.0\Week_5.pdb
+D:\C_#\Project\Week_5\Week_5\obj\Release\net8.0\Week_5.genruntimeconfig.cache
+D:\C_#\Project\Week_5\Week_5\obj\Release\net8.0\ref\Week_5.dll
