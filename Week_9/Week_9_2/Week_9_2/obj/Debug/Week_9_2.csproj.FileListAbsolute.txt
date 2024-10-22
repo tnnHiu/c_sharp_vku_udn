@@ -1,0 +1,10 @@
+D:\C_#\Project\Week_9\Week_9_2\Week_9_2\bin\Debug\Week_9_2.exe.config
+D:\C_#\Project\Week_9\Week_9_2\Week_9_2\bin\Debug\Week_9_2.exe
+D:\C_#\Project\Week_9\Week_9_2\Week_9_2\bin\Debug\Week_9_2.pdb
+D:\C_#\Project\Week_9\Week_9_2\Week_9_2\obj\Debug\Week_9_2.csproj.AssemblyReference.cache
+D:\C_#\Project\Week_9\Week_9_2\Week_9_2\obj\Debug\Week_9_2.Form1.resources
+D:\C_#\Project\Week_9\Week_9_2\Week_9_2\obj\Debug\Week_9_2.Properties.Resources.resources
+D:\C_#\Project\Week_9\Week_9_2\Week_9_2\obj\Debug\Week_9_2.csproj.GenerateResource.cache
+D:\C_#\Project\Week_9\Week_9_2\Week_9_2\obj\Debug\Week_9_2.csproj.CoreCompileInputs.cache
+D:\C_#\Project\Week_9\Week_9_2\Week_9_2\obj\Debug\Week_9_2.exe
+D:\C_#\Project\Week_9\Week_9_2\Week_9_2\obj\Debug\Week_9_2.pdb

@@ -1,0 +1,17 @@
+D:\C_#\Project\Week_7\Week_7_2\Week_7_2\bin\Debug\net8.0-windows\Week_7_2.exe
+D:\C_#\Project\Week_7\Week_7_2\Week_7_2\bin\Debug\net8.0-windows\Week_7_2.deps.json
+D:\C_#\Project\Week_7\Week_7_2\Week_7_2\bin\Debug\net8.0-windows\Week_7_2.runtimeconfig.json
+D:\C_#\Project\Week_7\Week_7_2\Week_7_2\bin\Debug\net8.0-windows\Week_7_2.dll
+D:\C_#\Project\Week_7\Week_7_2\Week_7_2\bin\Debug\net8.0-windows\Week_7_2.pdb
+D:\C_#\Project\Week_7\Week_7_2\Week_7_2\obj\Debug\net8.0-windows\Week_7_2.Form1.resources
+D:\C_#\Project\Week_7\Week_7_2\Week_7_2\obj\Debug\net8.0-windows\Week_7_2.csproj.GenerateResource.cache
+D:\C_#\Project\Week_7\Week_7_2\Week_7_2\obj\Debug\net8.0-windows\Week_7_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_#\Project\Week_7\Week_7_2\Week_7_2\obj\Debug\net8.0-windows\Week_7_2.AssemblyInfoInputs.cache
+D:\C_#\Project\Week_7\Week_7_2\Week_7_2\obj\Debug\net8.0-windows\Week_7_2.AssemblyInfo.cs
+D:\C_#\Project\Week_7\Week_7_2\Week_7_2\obj\Debug\net8.0-windows\Week_7_2.csproj.CoreCompileInputs.cache
+D:\C_#\Project\Week_7\Week_7_2\Week_7_2\obj\Debug\net8.0-windows\Week_7_2.sourcelink.json
+D:\C_#\Project\Week_7\Week_7_2\Week_7_2\obj\Debug\net8.0-windows\Week_7_2.dll
+D:\C_#\Project\Week_7\Week_7_2\Week_7_2\obj\Debug\net8.0-windows\refint\Week_7_2.dll
+D:\C_#\Project\Week_7\Week_7_2\Week_7_2\obj\Debug\net8.0-windows\Week_7_2.pdb
+D:\C_#\Project\Week_7\Week_7_2\Week_7_2\obj\Debug\net8.0-windows\Week_7_2.genruntimeconfig.cache
+D:\C_#\Project\Week_7\Week_7_2\Week_7_2\obj\Debug\net8.0-windows\ref\Week_7_2.dll

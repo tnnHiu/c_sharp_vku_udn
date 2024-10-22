@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C_#\\Project\\Week_8\\Week_8_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB253FB-CA51-4DD5-9C53-6FCE78C38CB7}|Week_8_4\\Week_8_4.csproj|d:\\c_#\\project\\week_8\\week_8_4\\week_8_4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FB253FB-CA51-4DD5-9C53-6FCE78C38CB7}|Week_8_4\\Week_8_4.csproj|solutionrelative:week_8_4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB253FB-CA51-4DD5-9C53-6FCE78C38CB7}|Week_8_4\\Week_8_4.csproj|d:\\c_#\\project\\week_8\\week_8_4\\week_8_4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB253FB-CA51-4DD5-9C53-6FCE78C38CB7}|Week_8_4\\Week_8_4.csproj|solutionrelative:week_8_4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\C_#\\Project\\Week_8\\Week_8_4\\Week_8_4\\Form1.cs",
+              "RelativeDocumentMoniker": "Week_8_4\\Form1.cs",
+              "ToolTip": "D:\\C_#\\Project\\Week_8\\Week_8_4\\Week_8_4\\Form1.cs",
+              "RelativeToolTip": "Week_8_4\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T13:24:57.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\C_#\\Project\\Week_8\\Week_8_4\\Week_8_4\\Form1.cs",
+              "RelativeDocumentMoniker": "Week_8_4\\Form1.cs",
+              "ToolTip": "D:\\C_#\\Project\\Week_8\\Week_8_4\\Week_8_4\\Form1.cs [Design]",
+              "RelativeToolTip": "Week_8_4\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T13:24:54.702Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
