@@ -1,0 +1,16 @@
+D:\C_#\Project\week_10\week_10_1\DAL\bin\Debug\net8.0\DAL.deps.json
+D:\C_#\Project\week_10\week_10_1\DAL\bin\Debug\net8.0\DAL.dll
+D:\C_#\Project\week_10\week_10_1\DAL\bin\Debug\net8.0\DAL.pdb
+D:\C_#\Project\week_10\week_10_1\DAL\bin\Debug\net8.0\DTO.dll
+D:\C_#\Project\week_10\week_10_1\DAL\bin\Debug\net8.0\DTO.pdb
+D:\C_#\Project\week_10\week_10_1\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+D:\C_#\Project\week_10\week_10_1\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_#\Project\week_10\week_10_1\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+D:\C_#\Project\week_10\week_10_1\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+D:\C_#\Project\week_10\week_10_1\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+D:\C_#\Project\week_10\week_10_1\DAL\obj\Debug\net8.0\DAL.sourcelink.json
+D:\C_#\Project\week_10\week_10_1\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date
+D:\C_#\Project\week_10\week_10_1\DAL\obj\Debug\net8.0\DAL.dll
+D:\C_#\Project\week_10\week_10_1\DAL\obj\Debug\net8.0\refint\DAL.dll
+D:\C_#\Project\week_10\week_10_1\DAL\obj\Debug\net8.0\DAL.pdb
+D:\C_#\Project\week_10\week_10_1\DAL\obj\Debug\net8.0\ref\DAL.dll

@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C_#\\Project\\week_10\\week_10_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1037810A-94A6-41D2-9A96-979269C2CEE8}|DTO\\DTO.csproj|d:\\c_#\\project\\week_10\\week_10_2\\dto\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1037810A-94A6-41D2-9A96-979269C2CEE8}|DTO\\DTO.csproj|solutionrelative:dto\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1037810A-94A6-41D2-9A96-979269C2CEE8}|DTO\\DTO.csproj|d:\\c_#\\project\\week_10\\week_10_2\\dto\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1037810A-94A6-41D2-9A96-979269C2CEE8}|DTO\\DTO.csproj|solutionrelative:dto\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F0EF68B-320E-4648-9ABC-CCD94ED463D0}|DAL\\DAL.csproj|d:\\c_#\\project\\week_10\\week_10_2\\dal\\studentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F0EF68B-320E-4648-9ABC-CCD94ED463D0}|DAL\\DAL.csproj|solutionrelative:dal\\studentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F0EF68B-320E-4648-9ABC-CCD94ED463D0}|DAL\\DAL.csproj|d:\\c_#\\project\\week_10\\week_10_2\\dal\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F0EF68B-320E-4648-9ABC-CCD94ED463D0}|DAL\\DAL.csproj|solutionrelative:dal\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD40961-88DE-4786-870F-42BCBB3A3D43}|BUS\\BUS.csproj|d:\\c_#\\project\\week_10\\week_10_2\\bus\\studentbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD40961-88DE-4786-870F-42BCBB3A3D43}|BUS\\BUS.csproj|solutionrelative:bus\\studentbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0568AD62-4157-49C3-8A66-C4FB71974996}|GUI_Student_Management\\GUI_Student_Management.csproj|d:\\c_#\\project\\week_10\\week_10_2\\gui_student_management\\studentmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0568AD62-4157-49C3-8A66-C4FB71974996}|GUI_Student_Management\\GUI_Student_Management.csproj|solutionrelative:gui_student_management\\studentmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0568AD62-4157-49C3-8A66-C4FB71974996}|GUI_Student_Management\\GUI_Student_Management.csproj|D:\\C_#\\Project\\week_10\\week_10_2\\gui_student_management\\studentmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0568AD62-4157-49C3-8A66-C4FB71974996}|GUI_Student_Management\\GUI_Student_Management.csproj|solutionrelative:gui_student_management\\studentmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\C_#\\Project\\week_10\\week_10_2\\DTO\\Student.cs",
+              "RelativeDocumentMoniker": "DTO\\Student.cs",
+              "ToolTip": "D:\\C_#\\Project\\week_10\\week_10_2\\DTO\\Student.cs",
+              "RelativeToolTip": "DTO\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T17:08:50.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class.cs",
+              "DocumentMoniker": "D:\\C_#\\Project\\week_10\\week_10_2\\DTO\\Class.cs",
+              "RelativeDocumentMoniker": "DTO\\Class.cs",
+              "ToolTip": "D:\\C_#\\Project\\week_10\\week_10_2\\DTO\\Class.cs",
+              "RelativeToolTip": "DTO\\Class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIAxwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T17:08:33.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "D:\\C_#\\Project\\week_10\\week_10_2\\DAL\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "DAL\\DatabaseConnection.cs",
+              "ToolTip": "D:\\C_#\\Project\\week_10\\week_10_2\\DAL\\DatabaseConnection.cs",
+              "RelativeToolTip": "DAL\\DatabaseConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T17:08:10.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentDAL.cs",
+              "DocumentMoniker": "D:\\C_#\\Project\\week_10\\week_10_2\\DAL\\StudentDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\StudentDAL.cs",
+              "ToolTip": "D:\\C_#\\Project\\week_10\\week_10_2\\DAL\\StudentDAL.cs",
+              "RelativeToolTip": "DAL\\StudentDAL.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAuwGwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T16:15:27.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentBUS.cs",
+              "DocumentMoniker": "D:\\C_#\\Project\\week_10\\week_10_2\\BUS\\StudentBUS.cs",
+              "RelativeDocumentMoniker": "BUS\\StudentBUS.cs",
+              "ToolTip": "D:\\C_#\\Project\\week_10\\week_10_2\\BUS\\StudentBUS.cs",
+              "RelativeToolTip": "BUS\\StudentBUS.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T16:15:16.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentManagementForm.cs",
+              "DocumentMoniker": "D:\\C_#\\Project\\week_10\\week_10_2\\GUI_Student_Management\\StudentManagementForm.cs",
+              "RelativeDocumentMoniker": "GUI_Student_Management\\StudentManagementForm.cs",
+              "ToolTip": "D:\\C_#\\Project\\week_10\\week_10_2\\GUI_Student_Management\\StudentManagementForm.cs",
+              "RelativeToolTip": "GUI_Student_Management\\StudentManagementForm.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAASwFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T16:12:31.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentManagementForm.cs [Design]",
+              "DocumentMoniker": "D:\\C_#\\Project\\week_10\\week_10_2\\GUI_Student_Management\\StudentManagementForm.cs",
+              "RelativeDocumentMoniker": "GUI_Student_Management\\StudentManagementForm.cs",
+              "ToolTip": "D:\\C_#\\Project\\week_10\\week_10_2\\GUI_Student_Management\\StudentManagementForm.cs [Design]",
+              "RelativeToolTip": "GUI_Student_Management\\StudentManagementForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T16:10:58.865Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
