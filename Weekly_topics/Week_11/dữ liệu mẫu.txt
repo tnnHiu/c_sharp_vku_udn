@@ -1,0 +1,24 @@
+USE PRODUCT_MANAGEMENT;
+GO
+
+-- Thêm dữ liệu mẫu vào bảng CATEGORY
+INSERT INTO CATEGORY (CategoryID, CategoryName, Description)
+VALUES 
+    ('C001', 'Electronics', 'Devices and gadgets'),
+    ('C002', 'Clothing', 'Apparel and accessories'),
+    ('C003', 'Furniture', 'Home and office furniture'),
+    ('C004', 'Books', 'Educational and recreational books');
+GO
+
+-- Thêm dữ liệu mẫu vào bảng PRODUCT
+INSERT INTO PRODUCT (ProductID, ProductName, Price, Quantity, CategoryID)
+VALUES 
+    ('P001', 'Smartphone', '699.99', '50', 'C001'),
+    ('P002', 'Laptop', '1299.99', '30', 'C001'),
+    ('P003', 'T-Shirt', '19.99', '100', 'C002'),
+    ('P004', 'Jeans', '39.99', '75', 'C002'),
+    ('P005', 'Desk Chair', '89.99', '20', 'C003'),
+    ('P006', 'Dining Table', '299.99', '15', 'C003'),
+    ('P007', 'Fiction Novel', '14.99', '200', 'C004'),
+    ('P008', 'Science Textbook', '49.99', '100', 'C004');
+GO

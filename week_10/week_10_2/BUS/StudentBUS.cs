@@ -19,9 +19,17 @@ namespace BUS
 
         public bool InsertStudent(Student student)
         {
-            //Xử lý nghiệp vụ ở đây
             //Kiểm tra mã sinh viên đã tồn tại chưa?
+            if (studentDAL.CheckExitStudent(student.StudentId))
+            {
+                return false;
+            }
             //Kiểm tra mã lớp có tồn tại không?
+            if (!studentDAL.CheckExitCLass(student.ClassId))
+            {
+                return false;
+            }
+
 
             return studentDAL.InsertStudent(student);
         }

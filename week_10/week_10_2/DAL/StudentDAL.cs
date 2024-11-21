@@ -57,6 +57,28 @@ namespace DAL
             return false;
         }
 
+        // Exit Student
+        public bool CheckExitStudent(string studentID)
+        {
+            OpenConnection();
+            string sql = $"SELECT COUNT(*) FROM STUDENT " +
+                $"WHERE STUDENTID = '{studentID}'";
+            SqlCommand command = new SqlCommand(sql, conn);
+            int count = (int)command.ExecuteScalar();
+            CloseConnection();
+            return count > 0;
+        }
+        public bool CheckExitCLass(string classId)
+        {
+            OpenConnection();
+            string sql = $"SELECT COUNT(*) FROM CLASS " +
+                $"WHERE CLASSID = '{classId}'";
+            SqlCommand command = new SqlCommand(sql, conn);
+            int count = (int)command.ExecuteScalar();
+            CloseConnection();
+            return count > 0;
+        }
+
         // Update Student
 
 
