@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C_#\\Project\\Week_13\\Week_13_7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5240269-D69D-4882-BC6C-9A521CE7202A}|Week_13_7\\Week_13_7.csproj|d:\\c_#\\project\\week_13\\week_13_7\\week_13_7\\democanvaspanel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B5240269-D69D-4882-BC6C-9A521CE7202A}|Week_13_7\\Week_13_7.csproj|solutionrelative:week_13_7\\democanvaspanel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5240269-D69D-4882-BC6C-9A521CE7202A}|Week_13_7\\Week_13_7.csproj|d:\\c_#\\project\\week_13\\week_13_7\\week_13_7\\democanvaspanel.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5240269-D69D-4882-BC6C-9A521CE7202A}|Week_13_7\\Week_13_7.csproj|solutionrelative:week_13_7\\democanvaspanel.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5240269-D69D-4882-BC6C-9A521CE7202A}|Week_13_7\\Week_13_7.csproj|d:\\c_#\\project\\week_13\\week_13_7\\week_13_7\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B5240269-D69D-4882-BC6C-9A521CE7202A}|Week_13_7\\Week_13_7.csproj|solutionrelative:week_13_7\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DemoCanvasPanel.xaml.cs",
+              "DocumentMoniker": "D:\\C_#\\Project\\Week_13\\Week_13_7\\Week_13_7\\DemoCanvasPanel.xaml.cs",
+              "RelativeDocumentMoniker": "Week_13_7\\DemoCanvasPanel.xaml.cs",
+              "ToolTip": "D:\\C_#\\Project\\Week_13\\Week_13_7\\Week_13_7\\DemoCanvasPanel.xaml.cs",
+              "RelativeToolTip": "Week_13_7\\DemoCanvasPanel.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T11:04:25.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DemoCanvasPanel.xaml",
+              "DocumentMoniker": "D:\\C_#\\Project\\Week_13\\Week_13_7\\Week_13_7\\DemoCanvasPanel.xaml",
+              "RelativeDocumentMoniker": "Week_13_7\\DemoCanvasPanel.xaml",
+              "ToolTip": "D:\\C_#\\Project\\Week_13\\Week_13_7\\Week_13_7\\DemoCanvasPanel.xaml",
+              "RelativeToolTip": "Week_13_7\\DemoCanvasPanel.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-27T11:01:46.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\C_#\\Project\\Week_13\\Week_13_7\\Week_13_7\\App.xaml",
+              "RelativeDocumentMoniker": "Week_13_7\\App.xaml",
+              "ToolTip": "D:\\C_#\\Project\\Week_13\\Week_13_7\\Week_13_7\\App.xaml",
+              "RelativeToolTip": "Week_13_7\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-27T11:01:17.763Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

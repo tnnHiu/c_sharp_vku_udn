@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C_#\\Project\\Week_13\\Week_13_16\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8AAE016-938D-4A49-903D-747E89EC5DCD}|Week_13_16\\Week_13_16.csproj|d:\\c_#\\project\\week_13\\week_13_16\\week_13_16\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8AAE016-938D-4A49-903D-747E89EC5DCD}|Week_13_16\\Week_13_16.csproj|solutionrelative:week_13_16\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8AAE016-938D-4A49-903D-747E89EC5DCD}|Week_13_16\\Week_13_16.csproj|d:\\c_#\\project\\week_13\\week_13_16\\week_13_16\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A8AAE016-938D-4A49-903D-747E89EC5DCD}|Week_13_16\\Week_13_16.csproj|solutionrelative:week_13_16\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\C_#\\Project\\Week_13\\Week_13_16\\Week_13_16\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Week_13_16\\MainWindow.xaml",
+              "ToolTip": "D:\\C_#\\Project\\Week_13\\Week_13_16\\Week_13_16\\MainWindow.xaml",
+              "RelativeToolTip": "Week_13_16\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-27T13:50:03.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\C_#\\Project\\Week_13\\Week_13_16\\Week_13_16\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Week_13_16\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\C_#\\Project\\Week_13\\Week_13_16\\Week_13_16\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Week_13_16\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T13:50:03.438Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

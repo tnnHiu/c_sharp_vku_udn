@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C_#\\Project\\Week_12\\Week_12_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{488519ED-E2B2-4E46-AAE4-AA827F425EBD}|Week_12_1\\Week_12_1.csproj|d:\\c_#\\project\\week_12\\week_12_1\\week_12_1\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488519ED-E2B2-4E46-AAE4-AA827F425EBD}|Week_12_1\\Week_12_1.csproj|solutionrelative:week_12_1\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookDbContext.cs",
+              "DocumentMoniker": "D:\\C_#\\Project\\Week_12\\Week_12_1\\Week_12_1\\BookDbContext.cs",
+              "RelativeDocumentMoniker": "Week_12_1\\BookDbContext.cs",
+              "ToolTip": "D:\\C_#\\Project\\Week_12\\Week_12_1\\Week_12_1\\BookDbContext.cs*",
+              "RelativeToolTip": "Week_12_1\\BookDbContext.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:37:59Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
