@@ -58,7 +58,7 @@
                             Margin="10"
                             Width="80"
                             Content="Delete"
-                            Click="btnDelete_Click"/>    
+                            Click="btnDelete_Click"/>
                 </StackPanel>
             </StackPanel>
             <ListView Grid.Row="1" 
